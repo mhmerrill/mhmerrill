@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I moved all the arkouda related repos to the [Bears-R-Us](https://github.com/Bears-R-Us) GitHub organization.
+All arkouda(αρκούδα) related repos have been moved to the [Bears-R-Us](https://github.com/Bears-R-Us) GitHub organization.
